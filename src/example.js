@@ -1,4 +1,5 @@
 const username = 'freddy'
+const username2 = 'cy'
 typeof username === 'string'
 
 if (!('serviceWorker' in navigator)) {
